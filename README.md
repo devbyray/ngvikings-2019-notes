@@ -2,4 +2,4 @@
 
 
 
-[day 1](./ngvikings-day-01)
+[day 1](./ngvikings-day-01.md)
