@@ -121,6 +121,10 @@
 
 - ngFor trackby  only updates the DOM not initials the whole component https://slides.com/valentinkononov/angular-bad-practices#/21
 
+- Pipes will be cached https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068
+
+- Pipe change detection https://excitoninteractive.com/articles/read/58/angular-user-interface-projects/pipes-and-angulars-change-detection
+
 
 
 
