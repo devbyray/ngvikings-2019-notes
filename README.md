@@ -1,0 +1,1 @@
+# ngvikings-2019-notes
