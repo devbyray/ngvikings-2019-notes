@@ -119,6 +119,8 @@
 
 - Use RxJs Tsling rules https://www.npmjs.com/package/rxjs-tslint-rules
 
+- ngFor trackby  only updates the DOM not initials the whole component https://slides.com/valentinkononov/angular-bad-practices#/21
+
 
 
 
