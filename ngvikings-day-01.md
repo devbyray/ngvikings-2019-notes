@@ -37,8 +37,6 @@
 
   - https://medium.com/lacolaco-blog/how-to-try-angular-cli-with-bazel-c133181d32da
 
-  - https://github.com/Azure/ng-deploy-azure
-
 ## Shuela Jacobs `Chris Noring`
 
 ### NG-deploy
