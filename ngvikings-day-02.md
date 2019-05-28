@@ -112,4 +112,36 @@
 
   - Question if you need a state managment solution
 
-  - If 
+
+
+## Kenneth Rohde Christiansen - PWA, Web Platform, Chrome
+
+- Web Share
+
+- Recieve shares
+
+  - Web share target
+
+- Media session AP for media playing
+
+- Shape detection api for QR codes, faces, payments
+
+- Badging for badges in the icons on desktop
+
+- Wake lock, prevent from display of or prevent system go of (WIP) https://developers.google.com/web/updates/2018/12/wakelock
+
+- File system
+
+  - Handy for video or image editors
+
+  - Or do VSCode on the web and save to your file system from the browser
+
+- Serial API 
+
+- WebHID (game controllers via Bluetooth)
+
+- Contacts picker, sharing contacts with a website
+
+- Font Access API simplify us of locally installed fonts
+
+- Sources: https://codelabs.developers.google.com/codelabs/web-capabilities/index.html
