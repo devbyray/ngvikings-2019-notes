@@ -39,7 +39,7 @@
 
   - https://github.com/Azure/ng-deploy-azure
 
-## Shuela Jacobs Chris Noring
+## Shuela Jacobs `Chris Noring`
 
 ### NG-deploy
 

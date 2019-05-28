@@ -248,4 +248,72 @@
 
 
 
+## Mike Hartington - Ionic
+
+- https://capacitor.ionicframework.com/docs/
+
+- https://twitter.com/mhartington
+
+## Kwinten Pisman - Angular in a Microservices
+
+- https://twitter.com/KwintentP
+
+- Angular Checklist https://angular-checklist.io/projects
+
+- StrongBrew https://blog.strongbrew.io/
+
+- Microservices - Independent deployable
+
+  - Lack of communication between teams/applications
+
+  - It's better to think about teams develop features, so things will be more shared accross teams and applications
+
+  - Sharing code between applications by using NPM
+
+  - Monorepo will make sharing code a lot easier.
+
+    - Upgrading dependencies
+
+    - 1 linter and config file for the repo
+
+    - Monorepo !== Monolith
+
+  - https://nx.dev/
+
+    - NX will help building a Angular Monorepo
+
+    - Create workspaces
+
+      - Apps folder
+
+        - Webshop app
+
+        - Stock management app
+
+        - etc...
+
+      - Lib folder
+
+      - Generate app for every application
+
+      - Link libraries in the tsconfig.json
+
+    - NX can generate a demo-graph of all the modules with dependencies
+
+      - This gives insights over what to test when a feature is changed, to you know what modules are depending on it.
+
+      - yarn affected. This will show what is impacted by our changes https://blog.nrwl.io/nrwl-nx-6-1-better-dev-ergonomics-faster-builds-3198bb310e39
+
+      - If you don't have a monorepo, you're not really doing CI, you're doing frequent intergration at best. ***Alex Eagle***
+
+  - Summary
+
+    - Let applications be build based on a range of features so code sharing is easier.
+
+    - Building a lib inside a monorepo is easier to update, because all the dependencies are equal in every application
+
+
+
+
+
 
