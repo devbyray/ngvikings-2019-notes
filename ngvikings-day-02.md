@@ -1,3 +1,9 @@
+
+
+# Day 2 - Keynotes
+
+
+
 ## Matt Podwysocki - Wahlin - An async journey
 
 - https://twitter.com/mattpodwysocki
@@ -145,3 +151,101 @@
 - Font Access API simplify us of locally installed fonts
 
 - Sources: https://codelabs.developers.google.com/codelabs/web-capabilities/index.html
+
+
+
+# Day 2 - Tracks
+
+
+
+## Filip Bech-Larsen  - Frameworks and webcomponents
+
+- https://github.com/filipbech/framework-webcomponents
+
+- Webcomponents
+
+  - Portability
+
+  - Native components brings native performance
+
+  - Framework === implementation detail
+
+  - Great browser support, soon without polyfill
+
+- Specs
+
+  - Custom elements
+
+    - Define your own elements
+
+  - Shadow DOM
+
+    - Get default styling 
+
+  - Template element
+
+  - ES-Modules
+
+    - Import and export JavaScript modules
+
+- Create super simple custom elements, it's a class that extends HTMLElement that's defined in JavaScript
+
+- Properties vs attributes
+
+  - You can pass anything to properties
+
+- Styling
+
+  - With scoped to shadowRoot
+
+  - custom-properties
+
+  - sepecial selectors - :host, :slotted
+
+  - ::parts on the horizon
+
+- With frameworks
+
+  - How to use web components in Angular, Vue, React (preact)
+
+  - https://custom-elements-everywhere.com/
+
+  - Angular and Vue are scoring 100% with Webcomponents support
+
+  - React score is 71% with Webcomponents support
+
+  - Preact score is 91% with Webcomponents support
+
+
+
+- Write your custom element in a framework of choice and get used by other frameworks
+
+  - With Native Webcomponent framework
+
+  - Wrap in custom-element
+
+- Wrapping
+
+  - Elements-props for data
+
+  - Dom-events for events
+
+  - slots
+
+  - Shadow dom 
+
+- Export to webcomponents
+
+  - Angular: https://github.com/chriskitson/custom-element https://alligator.io/angular/using-custom-elements/
+
+  - Vue: https://github.com/vuejs/vue-web-component-wrapper https://alligator.io/vuejs/vue-integrate-web-components/
+
+  - React: https://github.com/bspaulding/react-custom-element
+
+- Example
+
+  - Angular: https://github.com/jeroenouw/AngularElements
+
+
+
+
