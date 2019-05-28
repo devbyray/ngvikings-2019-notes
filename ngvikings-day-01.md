@@ -2,8 +2,6 @@
 
 - Angular Schematics
 
-
-
 ## John Papa
 
 - Angular Launch Angular
@@ -17,7 +15,7 @@
 
   - Virtual scroll
 
-## Minko Gechev - https://github.com/mgechev
+## Minko Gechev - https://github.com/mgechev
 
 - Loadchildren -> dynamic import v8 👍
 
@@ -67,25 +65,19 @@
 
 - https://github.com/sebawita/angular-tour-of-heroes
 
-
-
 ## Alex Okrushko - NGRX
 
 - Don't let users wait
 
-
-
 ## Aaron Frost - Lazy Loading Angular
 
-
+- Presentation: https://docs.google.com/presentation/d/1p8Mzl2cNgCOIiDXk089QQcdLqNaGbiuGX-kUTaDsrhs/edit
 
 - https://codeburst.io/how-to-implement-lazy-loading-in-angular-bb2a670b34d
 
 - All re-used components are loaded in the common.js bundle, so not lazyloaded
 
 - https://github.com/aaronfrost
-
-
 
 ### Lazyloading non-angular
 
@@ -95,19 +87,13 @@
 
 - 'import('module').then(onfulfilled: module => console.log('loaded: ', module))
 
-
-
 ### Lazyloading angular
 
 - angular.json "build.options" : "lazyModules": ['module1'
 
 - https://www.npmjs.com/package/@herodevs/hero-loader
 
-
-
 ## Valentin Kononov - Bad practices in Angular
-
-
 
 - https://slides.com/valentinkononov/angular-bad-practices
 
@@ -124,11 +110,3 @@
 - Pipes will be cached https://blog.angularindepth.com/the-essential-difference-between-pure-and-impure-pipes-and-why-that-matters-999818aa068
 
 - Pipe change detection https://excitoninteractive.com/articles/read/58/angular-user-interface-projects/pipes-and-angulars-change-detection
-
-
-
-
-
-
-
-
